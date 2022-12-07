@@ -1,0 +1,17 @@
+.row-padding {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.container{
+    text-align: center;
+}
+
+button.btn.btn-outline-primary.btn-m {
+    width: 144px;
+    margin-top: 10px;
+    height: 33px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: 500;
+}
